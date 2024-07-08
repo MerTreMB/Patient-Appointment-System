@@ -1,0 +1,6 @@
+1,Assoc. Prof.,Hakan,Demir,12345678902,Cardiology,05001234567
+2,Assoc. Prof.,Ayşe,Yıldız,23456789014,Dermatology,05012345678
+3,Asst. Prof.,Mehmet,Çelik,34567890126,Neurology,05023456789
+4,Prof. Dr.,Fatma,Kaya,45678901238,Orthopedics,05034567890
+5,Dr.,Ahmet,Şahin,56789012340,Otolaryngology,05045678901
+

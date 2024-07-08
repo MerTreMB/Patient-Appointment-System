@@ -1,0 +1,6 @@
+1,Cardiology
+2,Dermatology
+3,Neurology
+4,Orthopedics
+5,Otolaryngology
+6,Dentistry
